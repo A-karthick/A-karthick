@@ -72,7 +72,7 @@ K. Kusakabe, Y. Abe, **K. Anandan**, D. Sakamoto, K. Hara · *ACM UbiComp/ISWC 2
 ### 💼 Experience
 
 - **Research Engineer**, Singapore Management University · *2025 – 2026*
-- **AI Development Technologist**, Nanyang Polytechnic · *2020 – 2021*. Deployed YOLO and CNN models on NVIDIA JetBot. TensorRT conversion made inference **30% faster** and models **40% smaller**.
+- **AI Development Technologist**, Nanyang Polytechnic · *2020 – 2021*.
 
 ---
 
