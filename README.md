@@ -4,7 +4,6 @@
 Former Research Engineer at **Singapore Management University**, now doing a Master of IT in Business (AI track) at SMU.
 
 - 🏆 **Best Poster Runner-Up**, ACM UbiComp/ISWC 2026, for 3D object-retrieval guidance for blind and low-vision users
-- ⚙️ I like the unglamorous parts: point-in-time features, leakage checks, drift monitoring and honest evaluation
 - 🔭 Open to AI / ML engineering roles in Singapore
 
 ---
